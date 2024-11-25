@@ -1,0 +1,8 @@
+venv
+.idea
+__pycache__
+Lessons
+Lib
+Scripts
+HomeWork
+.venv
