@@ -5,13 +5,13 @@ class Animal:
     def speak(self):
         return "I am an animal"
 
-class Dog(Animal):
-    def speak(self):
-        return "Woof"
-
 class Cat(Animal):
     def speak(self):
         return "Meow"
+
+class Dog(Animal):
+    def speak(self):
+        return "Woof"
 
 dog = Dog('Buddy')
 cat = Cat("Kitty")
